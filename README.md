@@ -1,7 +1,8 @@
 # notes-node
 Note Taking App using Node.JS
 
-Install node-modules required by using npm install
+Install node-modules required by using npm install.
+Clone the repository in your local directory and open terminal/cmd in that directoory and type npm install
 
 Run app.js with command line arguments : 
  first one being operation, i.e, add, list, read, remove, etc.
