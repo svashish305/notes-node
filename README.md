@@ -3,7 +3,7 @@ Note Taking App using Node.JS
 ```
 Install node-modules required by using npm install.
 Clone the repository in your local directory 
-and open terminal/cmd in that directoory 
+and open terminal/cmd in that directory 
 and type npm install
 
 Run app.js with command line arguments : 
