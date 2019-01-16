@@ -1,6 +1,6 @@
 # notes-node
 Note Taking App using Node.JS
-
+```
 Install node-modules required by using npm install.
 Clone the repository in your local directory 
 and open terminal/cmd in that directoory 
@@ -14,3 +14,4 @@ Run app.js with command line arguments :
  (only to be passed while adding) 
  for eg. :
  node app.js add --title "title 1" --body "Body 1"
+```
